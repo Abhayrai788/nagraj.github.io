@@ -1,0 +1,9 @@
+Some important links to get idea about implementation of turtle module of python------- 
+
+1. https://docs.python.org/3/library/turtle.html
+
+2.https://www.geeksforgeeks.org/turtle-programming-python/
+
+3.https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/
+
+4.https://www.javatpoint.com/python-turtle-programming#:~:text=Turtle%20is%20a%20Python%20library,the%20original%20Logo%20programming%20language.
